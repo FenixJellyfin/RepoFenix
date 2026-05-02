@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.fenix" name="[COLOR yellow]RepositoryFenix[/COLOR]" version="v1.0" provider-name="[COLOR yellow]FENIX[/COLOR]">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>  
+  </requires>
+  <extension point="xbmc.addon.repository" name="[COLORcyan]RepositorioFenix[/COLOR]">
+    <dir>
+      <info compressed="false">https://raw.githubusercontent.com/FenixJellyfin/RepoFenix/master/zips/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/FenixJellyfin/RepoFenix/master/zips/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/FenixJellyfin/RepoFenix/master/zips/</datadir>
+      <hashes>false</hashes>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Repositorio FENIX</summary>
+    <description>repositorio oficial Fenix- Proibido reproducao sem autorização prévia</description>
+    <disclaimer></disclaimer>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
