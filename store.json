@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fenix Play",
+    "image": "https://link.com/foto1.png",
+    "xml": "https://link.com/fenixplay/addon.xml",
+    "description": "O melhor addon de filmes e séries."
+  },
+  {
+    "name": "Elementum",
+    "image": "https://link.com/elementum.png",
+    "xml": "https://link.com/elementum/addon.xml",
+    "description": "Motor de busca via Torrent."
+  }
+]
